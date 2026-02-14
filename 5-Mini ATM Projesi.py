@@ -48,8 +48,8 @@ if username in kullanicilar:
             print("Bakiyeniz yeterli Değil")
         elif seçim=="3":
 
-            miktar=(input("Kaç para Yatıracaksınız?:"))
-            bakiye=bakiye+miktar
+            miktar=(input("Kaç para Yatıracaksınız?:") 
+            bakiye= bakiye+miktar
             print("Toplam Bakiyeniz",bakiye)
 
 

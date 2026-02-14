@@ -1,0 +1,11 @@
+[
+    {
+        "kitap_adi": "Metafizik",
+        "yazar": "Aristoteles",
+        "fiyat": 250,
+        "yayın_tarihi": "2024",
+        "yayıncı": "Ketebe",
+        "kategori": "Felsefe",
+        "müsaitlik": true
+    }
+]

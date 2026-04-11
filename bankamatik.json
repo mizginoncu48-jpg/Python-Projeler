@@ -1,0 +1,32 @@
+[
+    {
+        "mail": "mizgin@gmail.com",
+        "sifre": "123",
+        "bakiye": {
+            "TL": 1000,
+            "USD": 100,
+            "EUR": 100,
+            "GOLD": 1
+        }
+    },
+    {
+        "mail": "ikbal@gmail.com",
+        "sifre": "987",
+        "bakiye": {
+            "TL": 0,
+            "USD": 0,
+            "EUR": 0,
+            "GOLD": 0
+        }
+    },
+    {
+        "mail": "ikbal@gmail.com",
+        "sifre": "987",
+        "bakiye": {
+            "TL": 0,
+            "USD": 0,
+            "EUR": 0,
+            "GOLD": 0
+        }
+    }
+]
